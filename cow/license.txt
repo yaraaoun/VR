@@ -1,0 +1,11 @@
+Model Information:
+* title:	cow
+* source:	https://sketchfab.com/3d-models/cow-dfa314a5b6bb4ec6b3fdbdc2ab59cbad
+* author:	rocket95 (https://sketchfab.com/rocket95)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "cow" (https://sketchfab.com/3d-models/cow-dfa314a5b6bb4ec6b3fdbdc2ab59cbad) by rocket95 (https://sketchfab.com/rocket95) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
