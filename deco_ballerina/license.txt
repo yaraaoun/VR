@@ -1,0 +1,11 @@
+Model Information:
+* title:	Deco Ballerina
+* source:	https://sketchfab.com/3d-models/deco-ballerina-4cfa3120a64d43bcbf714a4608a69517
+* author:	Paul Marx (https://sketchfab.com/my3dscanner)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Deco Ballerina" (https://sketchfab.com/3d-models/deco-ballerina-4cfa3120a64d43bcbf714a4608a69517) by Paul Marx (https://sketchfab.com/my3dscanner) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
