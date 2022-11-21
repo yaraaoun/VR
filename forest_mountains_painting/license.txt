@@ -1,0 +1,11 @@
+Model Information:
+* title:	Forest Mountains Painting
+* source:	https://sketchfab.com/3d-models/forest-mountains-painting-b2e48ecdf26d42e4890d2efbf51d85ca
+* author:	biserborislawow (https://sketchfab.com/biserborislawow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Forest Mountains Painting" (https://sketchfab.com/3d-models/forest-mountains-painting-b2e48ecdf26d42e4890d2efbf51d85ca) by biserborislawow (https://sketchfab.com/biserborislawow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
